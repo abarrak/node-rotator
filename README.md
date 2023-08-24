@@ -2,7 +2,8 @@
 
 This repository contains the automated node rotator for managed kuberentes clusters.
 
-<image src="https://raw.githubusercontent.com/abarrak/node-rotator/docs/1.png" width="80%" />
+<image src="https://raw.githubusercontent.com/abarrak/node-rotator/main/docs/1.png" width="80%" />
+
 
 ## Usage
 
@@ -28,7 +29,7 @@ $ rotate [OPTIONS] [CLUSTER]
 * `--oci-cluster-id TEXT`: OCI cluster ocid. Provider specific.
 * `--help`: Show this message and exit.
 
-<image src="https://raw.githubusercontent.com/abarrak/node-rotator/docs/2.png" width="75%" />
+<image src="https://raw.githubusercontent.com/abarrak/node-rotator/main/docs/2.png" width="75%" />
 
 ## Development
 
