@@ -1,0 +1,6 @@
+oci==2.94.0
+kubernetes==v26.1.0
+typer[all]
+pytest
+pytest-mock
+autopep8
